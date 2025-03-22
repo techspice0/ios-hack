@@ -11,5 +11,9 @@ git clone https://github.com/LukeZGD/Legacy-iOS-Kit.git
 
 mv ./Legacy-iOS-Kit ./legacy-ios-kit
 
+# you dont need this
+
+rm -fr ./.git
+ 
 # Exit
 exit
