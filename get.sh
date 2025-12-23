@@ -11,6 +11,10 @@ git clone https://github.com/LukeZGD/Legacy-iOS-Kit.git
 
 mv ./Legacy-iOS-Kit ./legacy-ios-kit
 
+# My cryptex1 script 😘
+
+git clone https://github.com/techspice0/get-blobs-py.git
+
 # you dont need this
 
 rm -fr ./.git
