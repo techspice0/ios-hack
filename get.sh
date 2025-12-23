@@ -15,9 +15,5 @@ mv ./Legacy-iOS-Kit ./legacy-ios-kit
 
 git clone https://github.com/techspice0/get-blobs-py.git
 
-# you dont need this
-
-rm -fr ./.git
- 
 # Exit
 exit
